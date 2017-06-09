@@ -3,7 +3,7 @@ Story things is a multi-author github short story written by GINA Bootcamp 2017 
 Create or edit an issue, and then create a pull request or branch your part of the story. @vlraymond will merge pull requests etc and components and we might just have a story!
 
 ## Contributors
-@wswanson3, @ianjon, @tclucas, @onudson
+@wswanson3, @ianjon, @tclucas, @onudson, @rawserspicer
 
 ### Genre
 Story Things is written in the Science Fiction style, in tribute to such genre-defining authors as ___, ___, __
