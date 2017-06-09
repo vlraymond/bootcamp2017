@@ -21,6 +21,6 @@ TBD - Sidekick
 
 High Lord Carabain - Arch nemesis 
 
-TBD - Underdog 
+Dolly Gesamtkunstwerk- Underdog 
 
 ## Recap on the experience / what we'd do differently in the future
