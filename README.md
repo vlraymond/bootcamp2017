@@ -5,8 +5,8 @@ Create or edit an issue, and then create a pull request or branch your part of t
 ## Contributors
 @wswanson3, @ianjon, @tclucas, @onudson, @rawserspicer
 
-### Genre
-Story Things is written in the Science Fiction style, in tribute to such genre-defining authors as ___, ___, __
+### Genre & Emotional tone
+Story Things is written in the tragic Science Fiction style, in tribute to such genre-defining authors as ___, ___, __
 
 ### Setting
 Story things takes place in ____________________
@@ -15,12 +15,12 @@ Story things takes place in ____________________
 Story things examines the complex and oft-overlooked theme of ____________ and _______________. Characters find ________________ as a resolution to this problem.
 
 ### Characters
-Regina the Welder - Heroine 
+Regina the Welder - The Heroine 
 
-TBD - Sidekick 
+Kit - The Sidekick 
 
-High Lord Carabain - Arch nemesis 
+High Lord Carabain - The Arch nemesis 
 
-Dolly Gesamtkunstwerk- Underdog 
+Dolly Gesamtkunstwerk- The Underdog 
 
 ## Recap on the experience / what we'd do differently in the future
