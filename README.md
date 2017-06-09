@@ -12,12 +12,15 @@ Story Things is written in the Science Fiction style, in tribute to such genre-d
 Story things takes place in ____________________
 
 ### Challenges and Solutions
-Story things examiens the complex and oft-overlooked theme of ____________ and _______________. Characters find ________________ as a resolution to this problem.
+Story things examines the complex and oft-overlooked theme of ____________ and _______________. Characters find ________________ as a resolution to this problem.
 
 ### Characters
-TBD - Heroine 
+Regina the Welder - Heroine 
+
 TBD - Sidekick 
+
 High Lord Carabain - Arch nemesis 
+
 TBD - Underdog 
 
 ## Recap on the experience / what we'd do differently in the future
