@@ -6,13 +6,13 @@ Create or edit an issue, and then create a pull request or branch your part of t
 @wswanson3, @ianjon, @tclucas, @onudson, @rawserspicer
 
 ### Genre & Emotional tone
-Story Things is written in the tragic Science Fiction style, in tribute to such genre-defining authors as ___, ___, __
+Story Things is written in the tragic Science Fiction style.
 
 ### Setting
-Story things takes place in ____________________
+Story things takes place in Narnia
 
 ### Challenges and Solutions
-Story things examines the complex and oft-overlooked theme of ____________ and _______________. Characters find ________________ as a resolution to this problem.
+Story things examines the complex and oft-overlooked theme of wolf packs and polar bears. Characters find unicorn rescue as a resolution to this problem.
 
 ### Characters
 Regina the Welder - The Heroine 
