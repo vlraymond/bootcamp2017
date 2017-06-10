@@ -1,1 +1,0 @@
-The underdog of Story Things chronically sleeps through their alarm and is healing a broken big toe. Despite these challenges, Underdog maintains a positive attitude and participates in Birthday celebrations and somersault competitions frequently. 
